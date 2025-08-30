@@ -1,4 +1,4 @@
-💬 Multi-Client Chat Application : 
+# 💬 Multi-Client Chat Application : 
 
 This project is a Client-Server Chat Application built with Python, using:
 
@@ -9,7 +9,7 @@ This project is a Client-Server Chat Application built with Python, using:
 🔄 Threading → to handle multiple clients concurrently.
 
 
-📌 Features  : 
+# 📌 Features  : 
 
 👥 - Server can handle multiple clients at the same time.
 
